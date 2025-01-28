@@ -34,7 +34,7 @@ pip install -r requirements.txt
 1. Activate the virtual environment (if not already activated)
 2. Run the Streamlit app:
 ```bash
-cd src
+
 streamlit run app.py
 ```
 
